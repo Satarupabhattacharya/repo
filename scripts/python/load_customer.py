@@ -14,7 +14,7 @@ try:
     print(sys.argv)
 
     #var=sys.argv[0]
-    var = "202303"
+    var = "202304"
     src_dir_ym=src_dir+str(var)+'\\'
 
 

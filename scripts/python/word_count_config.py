@@ -1,0 +1,1 @@
+src_file='C:\\Users\satar\OneDrive\Desktop\source\wordcount\wiki_msd.txt'
